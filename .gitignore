@@ -1,3 +1,5 @@
+#MacOS dontneededfiles
+.DS_Store
 # Logs
 logs
 *.log
